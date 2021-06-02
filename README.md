@@ -1,9 +1,9 @@
-# projet_3
-# projet_3
+# Mastermind
+# Mastermind
 
 Bienvenu,
 
-Dans le cadre de ma formation OpenClassRooms, j'ai réalisé un jeux intitulé MasterMind.
+J'ai réalisé un jeux intitulé MasterMind.
 
 Configuration de la réalisation :
 IDE : Eclipse
